@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "html.format.wrapLineLength": 0,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrapColumn": 200,
+  "editor.wordWrap": "on",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}

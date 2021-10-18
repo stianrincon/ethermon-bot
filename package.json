@@ -1,0 +1,19 @@
+{
+    "name": "ethermon-bot",
+    "version": "1.0.0",
+    "description": "bot to ethermon",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "stianrincon",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/plugin-transform-runtime": "^7.15.8",
+        "@babel/preset-env": "^7.15.8",
+        "@types/jest": "^27.0.2",
+        "@types/puppeteer": "^5.4.4",
+        "jest": "^27.2.5",
+        "puppeteer": "^10.4.0",
+        "typescript": "^4.4.3"
+    }
+}
